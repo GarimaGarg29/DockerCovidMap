@@ -92,5 +92,8 @@ docker run --name flask-docker-demo-app -p 5001:5001 flask-docker-demo-app
 
 You should be able to check it in your Docker container's URL, for example: <a href="http://192.168.99.100:5001" target="_blank">http://192.168.99.100</a> or <a href="http://127.0.0.1" target="_blank">http://127.0.0.1</a>
 
-<img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid/master/Image3.PNG' border='0' alt='Covid Map'/>
-<img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid/master/Image2.PNG' border='0' alt='Covid Map'/>
+<img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid_Map/master/pic1.PNG' border='0' alt='Covid Map'/>
+<img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid_Map/master/pic2.PNG' border='0' alt='Covid Map'/>
+
+<img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid_Map/master/pic3.PNG' border='0' alt='Covid Map'/>
+<img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid_Map/master/pic4.PNG' border='0' alt='Covid Map'/>
