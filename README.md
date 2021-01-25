@@ -1,9 +1,6 @@
 # Docker_Covid-19
 A WebApp build using flask on platform Docker. This app will generate a map in which all the covid-19 test labs in india are marked.
 
-<p align="center">
-  LinkedIn Post: <a href="https://www.linkedin.com/posts/shivam-gupta1808_righteducation-docker-vimaldaga-activity-6661554998603726850-RkiH"><strong>Covid-19 Map</strong></a>
-</p>
 
 ## Quick Start
 
